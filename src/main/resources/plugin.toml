@@ -1,0 +1,9 @@
+[information]
+name = "Test Plugin"
+description = "A test plugin"
+author = "Test"
+version = "1.0.0"
+
+[entry]
+mainClass = "org.urielserv.test_plugin.TestPlugin"
+dependencies = [""]
